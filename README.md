@@ -1,6 +1,9 @@
 <div align="center">
-  <img src="https://github.com/yourusername/your-repo/raw/main/assets/kredix-banner.png" alt="KREDIX XYPHER" width="600"/>
+  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00D8FF&center=true&width=600&lines=⚡_KREDIX_XYPHER_⚡;CYBER_SECURITY_SPECIALIST;FULL-STACK_DEVELOPER" alt="Typing animation" />
+  
+  ![Cyber Shield](https://img.shields.io/badge/CRYPTOGRAPHIC_ENGINEER-00ff88?style=for-the-badge&logo=icloud&logoColor=black)
 </div>
+
 ---
 
 ### 🚀 **Quick Intro**  
