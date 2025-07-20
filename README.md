@@ -1,99 +1,81 @@
-Absolutely! Here's a **super attractive, modern, and visually engaging GitHub profile README** template with **logos**, **badges**, **icons**, **GIFs**, and a **dark theme look** – perfect for **developers, gamers, and digital creators** like you.
-
----
-
-## ✨ GitHub Profile `README.md` (Copy and Paste)
-
-
+<!-- Profile Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=3500&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+I+am+Kratos+%F0%9F%91%8B;Gamer+%7C+Developer+%7C+Bot+Maker;Founder+of+Killtonz+United+%F0%9F%92%AA;Welcome+to+my+Digital+World+%F0%9F%8C%90" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+Kratos+(Niranjan);Gamer+%7C+Developer+%7C+AI+Explorer;Founder+of+Killtonz+United+%E2%9C%94%EF%B8%8F;Welcome+to+My+World+of+Code+%F0%9F%92%BB" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://media.tenor.com/NzFvK4hgyZgAAAAC/gaming.gif" width="320" />
+  <img src="https://media.tenor.com/FG3pWk-LLXYAAAAC/coding.gif" width="300px" />
 </p>
 
 ---
 
-## 🧠 About Me
+## 💼 About Me
 
-```yaml
-🔥 Name: Kratos (Niranjan)
-🎮 Passionate Gamer & Digital Creator
-🧰 Discord Bot Developer (90+ Commands)
-🛠️ Full Stack Web Dev (HTML, JS, PHP, DB)
-🧠 AI & ML Final Year Projects in progress
-🛍️ Founder: WLDER e-Services & Killtonz United
-📍 India — Fuelled by Code, Music & Coffee ☕
-````
+> 🚀 I’m a multi-domain creator focused on building digital tools for gamers, content creators, and tech communities.  
+> 💻 From bots to dashboards, I turn ideas into powerful products.  
+> 🔥 Currently working on AI-based tools & community systems.
 
 ---
 
-## 💼 Tech Stack & Tools
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,php,python,cpp,mysql,mongodb,react,tailwind,bootstrap,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,cpp,nodejs,react,mysql,mongodb,bootstrap,tailwind,github,vscode" />
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kratos144hz&show_icons=true&theme=radical&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kratos144hz&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kratos144hz&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kratos144hz&theme=gruvbox&hide_border=true" height="180"/>
 </p>
 
 ---
 
-## 🎯 My Top Projects
+## 🔥 Top Projects
 
-| Project                   | Description                                                            | Tech                              |
-| ------------------------- | ---------------------------------------------------------------------- | --------------------------------- |
-| [🎮 Killtonz Bot](#)      | Feature-rich bot with mod, utility, games, economy, AI, tickets & more | `Discord.js`, `SQLite`, `Node.js` |
-| [🛍️ eServices Site](#)   | Online store for bots, hosting, gaming services                        | `HTML`, `JS`, `PHP`               |
-| [📊 AI Stock Analyzer](#) | Real-time sentiment analysis of stock market news                      | `Python`, `NLP`, `scikit-learn`   |
+| 🧠 Project | 💬 Description | 🔧 Tech |
+|-----------|----------------|---------|
+| **Killtonz Bot** | Advanced Discord bot with moderation, economy, AI & tickets | `Node.js`, `Discord.js`, `SQLite` |
+| **eServices Store** | Online platform to buy bots, web services, and gaming tools | `HTML`, `PHP`, `JS`, `PayPal API` |
+| **Stock Sentiment AI** | ML project analyzing market news using NLP & sentiment | `Python`, `NLTK`, `scikit-learn` |
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://discord.gg/CvWQ85RD6c" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@Kratoz_144hz" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:kratosdevs@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-kratosdevs@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://discord.gg/CvWQ85RD6c"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@Kratoz_144hz"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:kratosdevs@gmail.com"><img src="https://img.shields.io/badge/Email-kratosdevs@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🧠 Quote to Live By
-
-> *"Obsessed is just a word the lazy use to describe the dedicated."*
-
----
+## 📈 Visitors
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kratos144hz&label=Profile+Views&color=F75C7E&style=flat-square" alt="view count"/>
+  <img src="https://komarev.com/ghpvc/?username=Kratos144hz&color=blueviolet&style=flat-square" />
 </p>
-```
 
 ---
 
-## 🔥 Bonus Suggestions
+## 🧠 Quote of the Day
 
-To make it even more 🔥:
-
-* Use a custom **banner image** (1920x400px) at the top
-* Add **GitHub trophies**
-
-  ```markdown
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Kratos144hz&theme=radical&no-frame=true&margin-w=15" />
-  </p>
-  ```
-* Add **GIFs** of your bot/web project (hosted on GitHub or ImgUr)
+> *“Code is like humor. When you have to explain it, it’s bad.” — Cory House*
 
 ---
 
+## 🛠️ Currently Building:
 
+- 🎮 AI Game Companion & Discord Utility Bot  
+- 📈 SaaS-style analytics dashboard for esports orgs  
+- 🌐 Fully responsive eStore for gaming/digital services  
+- 📘 Rainmeter Skins with futuristic aesthetics
+
+---
+
+**Made with ❤️ by Kratos | Niranjan**
