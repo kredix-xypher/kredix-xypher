@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=26&duration=3000&pause=1000&color=58A6FF&center=true&width=500&lines=Hello+World!+👋;I'm+Your+Name;Your+Role" alt="Typing animation" />
+  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D8FF&center=true&width=600&lines=⚡+KREDIX+XYPHER+⚡;CYBER+SECURITY+SPECIALIST;FULL-STACK+DEVELOPER" alt="Typing animation" />
+  
+  ![Tech Glitch Text](https://img.shields.io/badge/CRYPTOGRAPHIC_ENGINEER-00ff88?style=for-the-badge&logo=icloud&logoColor=black)
 </div>
 
 ---
