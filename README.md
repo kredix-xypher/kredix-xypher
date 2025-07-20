@@ -1,103 +1,59 @@
+# Hi there, I'm [Your Name] 👋
 
-<!-- CYBERPUNK HEADER -->
-<p align="center">
-  <img src="https://github.com/Kratos144hz/Kratos144hz/blob/main/assets/hacker-banner.png" width="100%" alt="cyberpunk header"/>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://yourportfolio.com)
 
-<h1 align="center">🧠 Kratos | Niranjan</h1>
-<h3 align="center"><code>Cyberpunk Developer | AI Creator | Discord Architect</code></h3>
+## 🚀 About Me
 
----
+I'm a [Your Profession/Role] passionate about [your key interests/specialties]. With [X] years of experience in [your field], I specialize in [your specific skills or technologies].
 
-## 🕶️ Hacker Profile
+- 🔭 I'm currently working on [current project]
+- 🌱 I'm currently learning [what you're learning]
+- 👯 I'm looking to collaborate on [types of projects]
+- 💬 Ask me about [your areas of expertise]
+- 📫 How to reach me: [your email or contact method]
+- 😄 Pronouns: [your pronouns]
+- ⚡ Fun fact: [something interesting about you]
 
-```yaml
-💻 Name:         Kratos (aka Niranjan)
-🛠️ Skills:       Discord Bots • Web Dev • AI/ML • PHP • SQLite
-🧠 Projects:      AI Stock Sentiment • INFINTIRX Bot • WLDER eStore
-🎯 Focus:         Automation | eSports Systems | Community Tools
-````
+## 🛠 Tech Stack
 
----
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-## ⚙️ Tech I'm Using
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,php,python,js,html,css,tailwind,sqlite,mongodb,github,vscode,linux" />
-</p>
+### Tools & Platforms
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
+## 📈 GitHub Stats
 
-## 🔥 Live Projects
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://your-live-link-1.com">
-        <img src="https://github.com/Kratos144hz/Kratos144hz/blob/main/assets/bot-preview.png" width="240"/>
-        <br/>
-        <b>Killtonz Bot</b>
-      </a>
-      <p>Moderation, economy, AI, tickets, games</p>
-    </td>
-    <td align="center">
-      <a href="https://your-live-link-2.com">
-        <img src="https://github.com/Kratos144hz/Kratos144hz/blob/main/assets/store-preview.png" width="240"/>
-        <br/>
-        <b>WLDER eStore</b>
-      </a>
-      <p>Sell bots, services, hosting & tools</p>
-    </td>
-    <td align="center">
-      <a href="https://your-live-link-3.com">
-        <img src="https://github.com/Kratos144hz/Kratos144hz/blob/main/assets/ai-preview.png" width="240"/>
-        <br/>
-        <b>AI Stock Analyzer</b>
-      </a>
-      <p>NLP-powered sentiment engine</p>
-    </td>
-  </tr>
-</table>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/yourusername)
 
----
+## 🏆 GitHub Trophies
 
-## 📈 Stats & Streaks
+[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)](https://github.com/yourusername)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kratos144hz&show_icons=true&theme=graywhite&hide_border=true&count_private=true" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kratos144hz&theme=graywhite&hide_border=true" width="45%" />
-</p>
+## 📝 Latest Blog Posts
 
----
+<!-- BLOG-POST-LIST:START -->
+- [Blog Post Title 1](https://yourblog.com/post1)
+- [Blog Post Title 2](https://yourblog.com/post2)
+<!-- BLOG-POST-LIST:END -->
 
-## 📡 Contact & Links
+## 🤝 Let's Connect
 
-<p align="center">
-  <a href="https://discord.gg/CvWQ85RD6c"><img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@Kratoz_144hz"><img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="mailto:kratosdevs@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+I'm always open to interesting discussions and collaborations. Feel free to reach out!
 
----
-
-## 💬 Dev Quote
-
-> "*Stay low key, build high tech.*"
-
----
-
-## 👁️‍🗨️ Visitors
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kratos144hz&color=gray&style=flat-square" />
-</p>
-
----
-
-<p align="center">
-  <i>Cybermind by day, Code Reaper by night.</i><br/>
-  <strong>#INFINTIRX • #WLDER • #Killtonz</strong>
-</p>
-```
-
----
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
