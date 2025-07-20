@@ -1,6 +1,5 @@
 <div align="center">
-  <h1 style="font-family: 'Orbitron', sans-serif; color: #00D8FF">KREDIX XYPHER</h1>
-  <h3 style="font-family: 'Orbitron', sans-serif; color: #00ff88">CYBER SECURITY SPECIALIST</h3>
+  <img src="https://github.com/yourusername/your-repo/raw/main/assets/kredix-banner.png" alt="KREDIX XYPHER" width="600"/>
 </div>
 ---
 
