@@ -2,7 +2,7 @@ Here’s a **completely unique GitHub Profile README** with cutting-edge element
 
 ---
 
-```markdown
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/main/assets/dark-mode-banner.svg">
