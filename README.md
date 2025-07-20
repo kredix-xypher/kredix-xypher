@@ -1,81 +1,106 @@
-<!-- Profile Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+Kratos+(Niranjan);Gamer+%7C+Developer+%7C+AI+Explorer;Founder+of+Killtonz+United+%E2%9C%94%EF%B8%8F;Welcome+to+My+World+of+Code+%F0%9F%92%BB" alt="Typing SVG" />
-</h1>
+Awesome — you’re going for a **black-and-white, cyberpunk/hacker-themed** GitHub profile with **live project preview cards**, inspired by the aesthetic in your image. Here's a full `README.md` that’s:
 
+* 🖤 Black & white, hacker-style aesthetic
+* 💡 Live project preview cards
+* 🛠 Professional and modern layout
+* 🔗 Stylish icons and contact buttons
+* 🎯 Custom banner space (can insert your uploaded image if needed)
+
+---
+
+## ✅ Final GitHub Profile `README.md` (Cyberpunk B/W Style)
+
+````markdown
+<!-- BANNER -->
 <p align="center">
-  <img src="https://media.tenor.com/FG3pWk-LLXYAAAAC/coding.gif" width="300px" />
+  <img src="https://github.com/Kratos144hz/Kratos144hz/blob/main/assets/banner-bw.png" width="100%" alt="Cyber Hacker Banner" />
+</p>
+
+<h1 align="center">⚔️ Kratos // Niranjan</h1>
+<p align="center">
+  <em>Cyber-themed Developer | AI Engineer | Discord Architect | Esports Builder</em>
 </p>
 
 ---
 
-## 💼 About Me
+## 🧠 Who Am I?
 
-> 🚀 I’m a multi-domain creator focused on building digital tools for gamers, content creators, and tech communities.  
-> 💻 From bots to dashboards, I turn ideas into powerful products.  
-> 🔥 Currently working on AI-based tools & community systems.
+```yaml
+Username:     Kratos144hz
+Role:         Founder of Killtonz United + WLDER e-Services
+Specialties:  Web Dev • AI • Bots • Rainmeter • ML Tools
+Skills:       Node.js • JS • PHP • Python • Discord.js • SQLite • Tailwind • Bash
+````
+
+> "In a world of code, I create the digital battlegrounds." — Kratos
 
 ---
 
-## 🛠️ Tech Stack
+## 🧪 Featured Projects (Live Cards)
+
+<div align="center">
+
+<a href="https://your-killtonz-bot-preview-link.com" target="_blank">
+  <img alt="Killtonz Bot Preview" src="https://github.com/Kratos144hz/Kratos144hz/blob/main/assets/project-bot.png" width="300" />
+</a>
+
+<a href="https://your-eservices-site-link.com" target="_blank">
+  <img alt="eServices Website Preview" src="https://github.com/Kratos144hz/Kratos144hz/blob/main/assets/project-store.png" width="300" />
+</a>
+
+<a href="https://your-stock-ai-project-link.com" target="_blank">
+  <img alt="AI Stock Analyzer Preview" src="https://github.com/Kratos144hz/Kratos144hz/blob/main/assets/project-stock.png" width="300" />
+</a>
+
+</div>
+
+---
+
+## 🧰 Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,cpp,nodejs,react,mysql,mongodb,bootstrap,tailwind,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=nodejs,js,php,python,html,css,tailwind,react,sqlite,mongodb,github,linux,bash,vscode" />
 </p>
 
 ---
 
-## 📊 GitHub Insights
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kratos144hz&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kratos144hz&theme=gruvbox&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kratos144hz&show_icons=true&theme=gruvbox&hide_border=true" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kratos144hz&theme=gruvbox&hide_border=true" width="45%" />
 </p>
 
 ---
 
-## 🔥 Top Projects
+## 🧠 Currently Building
 
-| 🧠 Project | 💬 Description | 🔧 Tech |
-|-----------|----------------|---------|
-| **Killtonz Bot** | Advanced Discord bot with moderation, economy, AI & tickets | `Node.js`, `Discord.js`, `SQLite` |
-| **eServices Store** | Online platform to buy bots, web services, and gaming tools | `HTML`, `PHP`, `JS`, `PayPal API` |
-| **Stock Sentiment AI** | ML project analyzing market news using NLP & sentiment | `Python`, `NLTK`, `scikit-learn` |
+* 🎯 **AI Interview Coach** — Simulates real-time mock interviews with feedback
+* ⚔️ **Cyber Rainmeter Clock** — Signature-styled vertical desktop clock skin
+* 🛒 **WLDER eStore** — Digital service storefront with real payment flow
+* 🤖 **INFINTIRX Bot** — 90+ commands, multi-guild support, AI commands
 
 ---
 
-## 🌐 Connect With Me
+## 📡 Connect With Me
 
 <p align="center">
-  <a href="https://discord.gg/CvWQ85RD6c"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@Kratoz_144hz"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:kratosdevs@gmail.com"><img src="https://img.shields.io/badge/Email-kratosdevs@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://discord.gg/CvWQ85RD6c"><img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@Kratoz_144hz"><img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="mailto:kratosdevs@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-## 📈 Visitors
+## 👁 Visitor Counter
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kratos144hz&color=blueviolet&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Kratos144hz&color=gray&style=flat-square" />
 </p>
 
 ---
 
-## 🧠 Quote of the Day
-
-> *“Code is like humor. When you have to explain it, it’s bad.” — Cory House*
-
----
-
-## 🛠️ Currently Building:
-
-- 🎮 AI Game Companion & Discord Utility Bot  
-- 📈 SaaS-style analytics dashboard for esports orgs  
-- 🌐 Fully responsive eStore for gaming/digital services  
-- 📘 Rainmeter Skins with futuristic aesthetics
+<p align="center"><i>⚔️ I don't just code — I build the future of gaming and automation.</i></p>
+```
 
 ---
-
-**Made with ❤️ by Kratos | Niranjan**
