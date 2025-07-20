@@ -4,7 +4,7 @@ Absolutely! Here's a **super attractive, modern, and visually engaging GitHub pr
 
 ## ✨ GitHub Profile `README.md` (Copy and Paste)
 
-````markdown
+
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=3500&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+I+am+Kratos+%F0%9F%91%8B;Gamer+%7C+Developer+%7C+Bot+Maker;Founder+of+Killtonz+United+%F0%9F%92%AA;Welcome+to+my+Digital+World+%F0%9F%8C%90" alt="Typing SVG" />
 </h1>
