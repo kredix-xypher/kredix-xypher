@@ -1,6 +1,5 @@
 
 ````markdown
-<!-- BANNER -->
 <p align="center">
   <img src="https://github.com/Kratos144hz/Kratos144hz/blob/main/assets/banner-bw.png" width="100%" alt="Cyber Hacker Banner" />
 </p>
