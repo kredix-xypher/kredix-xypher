@@ -1,14 +1,3 @@
-Awesome — you’re going for a **black-and-white, cyberpunk/hacker-themed** GitHub profile with **live project preview cards**, inspired by the aesthetic in your image. Here's a full `README.md` that’s:
-
-* 🖤 Black & white, hacker-style aesthetic
-* 💡 Live project preview cards
-* 🛠 Professional and modern layout
-* 🔗 Stylish icons and contact buttons
-* 🎯 Custom banner space (can insert your uploaded image if needed)
-
----
-
-## ✅ Final GitHub Profile `README.md` (Cyberpunk B/W Style)
 
 ````markdown
 <!-- BANNER -->
