@@ -1,6 +1,6 @@
 <h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=4000&pause=1000&color=00F72D&center=true&vCenter=true&width=450&height=60&lines=%3C%2FKREDIX+XYPHER%3E" alt="KREDIX XYPHER banner"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=30&duration=4000&pause=1000&color=00FF99&center=true&vCenter=true&width=500&height=60&lines=%3C%2FKREDIX+XYPHER%3E" alt="KREDIX XYPHER banner"/>
 </p>
 </h1>
 
