@@ -12,22 +12,6 @@
 
 📈 From leading event-based engagement and building community servers to developing full-stack web projects, I specialize in blending gaming culture with technical innovation.
 
-## 🏆 Profile Highlights
-
-<div align="center">
-
-**Kredix Xypher**  
-*Bridging gaming and technology through innovation*
-
-### 🏢 Organizations
-[![Killtonz United](https://img.shields.io/badge/-Killtonz_United-000000?style=flat-square)]()
-[![Killtonz Esports](https://img.shields.io/badge/-Killtonz_Esports-EA3223?style=flat-square)]()
-[![Finitrix Dev](https://img.shields.io/badge/-Finitrix_Development-4285F4?style=flat-square)]()
-
-### 💻 Core Skills
-`Discord.js` `Discord.py` `Web Design` `Python`  
-`Community Management` `Graphic Design` `Video Editing`
-
 </div>
 ## 🔧 My Expertise
 - **Discord Bot Development** (Discord.js, Discord.py)
