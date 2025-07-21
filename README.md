@@ -12,27 +12,7 @@
 
 📈 From leading event-based engagement and building community servers to developing full-stack web projects, I specialize in blending gaming culture with technical innovation.
 
-```python
-class KredixXypher:
-    def __init__(self):
-        self.name = "Kredix Xypher"
-        self.organizations = [
-            "Killtonz United", 
-            "Killtonz Esports",
-            "Finitrix Development"
-        ]
-        self.expertise = {
-            "Development": ["Discord.js", "Discord.py", "HTML/CSS", "Python", "JavaScript"],
-            "Design": ["Graphic Design", "Video Editing", "Branding", "Custom Overlays"],
-            "Management": ["Esports", "Community Leadership", "Web Projects"]
-        }
-        
-    def __str__(self):
-        return f"{self.name} | Bridging gaming and technology through innovation"
-        
-me = KredixXypher()
-print(me)
-```
+
 
 ## 🔧 My Expertise
 - **Discord Bot Development** (Discord.js, Discord.py)
