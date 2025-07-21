@@ -7,7 +7,7 @@
 
 ## 🎮 About Me
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/149850038?v=4" width="150" style="border-radius: 50%; border: 3px solid #00F72D; margin-bottom: 15px;" alt="Kredix Xypher"/>
+  <img src="https://avatars.githubusercontent.com/u/201330707?v=4" width="150" style="border-radius: 50%; border: 3px solid #00F72D; margin-bottom: 15px;" alt="Kredix Xypher"/>
 </div>
 **Founder of Killtonz United** — a growing esports and content creator community built to support competitive gamers, streamers, and developers.
 
