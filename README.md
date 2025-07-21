@@ -93,7 +93,3 @@
 
 </div>
 
-
-
-## 🎧 Now Playing Live
-[![Spotify Now Playing](https://spotify-github-profile.vercel.app/api/view?uid=31olz7edhculjftm7ugdz5ct4kna&cover_image=true&theme=novatorem&bar_color=00F72D&bar_color_cover=false)](https://open.spotify.com/user/31olz7edhculjftm7ugdz5ct4kna)
