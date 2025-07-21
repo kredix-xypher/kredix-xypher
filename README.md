@@ -1,7 +1,4 @@
-nt(me)
-Here's your complete GitHub README profile in the requested format with all improvements integrated:
 
-```markdown
 # KREDIX XYPHER
 
 <div align="center">
