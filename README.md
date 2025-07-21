@@ -71,4 +71,4 @@
 </div>
 
 ## 🎧 Gaming & Coding Vibes
-[![Spotify Now Playing](https://spotify-now-playing-seven-ruddy.vercel.app/api/spotify?background_color=0d1117&border_color=00F72D)](https://open.spotify.com/user/31olz7edhculjftm7ugdz5ct4kna)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31olz7edhculjftm7ugdz5ct4kna&cover_image=true&theme=default&bar_color=00F72D)](https://open.spotify.com/user/31olz7edhculjftm7ugdz5ct4kna)
