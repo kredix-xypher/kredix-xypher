@@ -1,6 +1,6 @@
 Here's a professional, unique, and attractive GitHub README profile for you:
 
-```markdown
+
 # KREDIX XYPHER
 
 <div align="center">
