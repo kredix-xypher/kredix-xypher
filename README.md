@@ -24,9 +24,17 @@
 - **Full-Stack Web Projects**
 
 ## 🚀 Organizations
-[![Killtonz United](https://img.shields.io/badge/Killtonz_United-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Killtonz-United)
-[![Killtonz Esports](https://img.shields.io/badge/Killtonz_Esports-EA3223?style=for-the-badge&logo=riot-games&logoColor=white)](https://github.com/Killtonz-Esports)
-[![Finitrix Development](https://img.shields.io/badge/Finitrix_Development-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/Finitrix-Development)
+<div align="center">
+
+[![Killtonz United](https://img.shields.io/badge/KILLTONZ_UNITED-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Killtonz-United)
+[![Killtonz Discord](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](YOUR_KILLTONZ_DISCORD_INVITE)
+[![Killtonz Website](https://img.shields.io/badge/WEBSITE-FF7139?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_KILLTONZ_WEBSITE_URL)
+
+[![Killtonz Esports](https://img.shields.io/badge/KILLTONZ_ESPORTS-EA3223?style=for-the-badge&logo=riot-games&logoColor=white)](https://github.com/Killtonz-Esports)
+
+[![Finitrix Development](https://img.shields.io/badge/FINITRIX_DEVELOPMENT-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/Finitrix-Development)
+[![Finitrix Discord](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](YOUR_FINITRIX_DISCORD_INVITE)
+</div>
 
 ## 🔗 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kredix-xypher/)
