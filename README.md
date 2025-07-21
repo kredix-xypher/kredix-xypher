@@ -71,4 +71,4 @@
 </div>
 
 ## 🎧 Gaming & Coding Vibes
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31olz7edhculjftm7ugdz5ct4kna&cover_image=true&theme=default&bar_color=00F72D)](https://open.spotify.com/user/31olz7edhculjftm7ugdz5ct4kna)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31olz7edhculjftm7ugdz5ct4kna&cover_image=true&theme=novatorem&bar_color=00F72D)](https://open.spotify.com/user/31olz7edhculjftm7ugdz5ct4kna)
