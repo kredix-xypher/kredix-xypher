@@ -27,11 +27,11 @@
 <div align="center">
 
 [![Killtonz United](https://img.shields.io/badge/KILLTONZ_UNITED-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Killtonz-United)
-[![KILLTONZ UNITED Website](https://img.shields.io/badge/WEBSITE-FF7139?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-killtonz-website-url)
-[![KILLTONZ UNITED Discord](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-killtonz-invite)
+[![Website](https://img.shields.io/badge/KILLTONZ_WEBSITE-FF7139?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-killtonz-website-url)
+[![Discord](https://img.shields.io/badge/KILLTONZ_DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-killtonz-invite)
 
 [![Finitrix Development](https://img.shields.io/badge/FINITRIX_DEVELOPMENT-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/Finitrix-Development)
-[![FINITRIX DEV Discord](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-finitrix-invite)
+[![Discord](https://img.shields.io/badge/FINITRIX_DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-finitrix-invite)
 </div>
 
 ## 🔗 Connect With Me
