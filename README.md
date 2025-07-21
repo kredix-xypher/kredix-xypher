@@ -1,8 +1,8 @@
 # KREDIX XYPHER
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=500&color=00F72D&background=0D111700&center=true&vCenter=true&width=500&height=80&lines=Founder+of+Killtonz+United;Founder+of+Killtonz+Esports;Founder+of+Finitrix+Development;Discord+Bot+Developer;Community+Manager;Tech+Enthusiast;AI+Developer;Gaming+Innovator" alt="Animated Typing Text" />
-  </div>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=4000&pause=500&color=00F72D&background=0D111700&center=true&vCenter=true&width=500&height=80&lines=FOUNDER+OF+KILLTONZ+UNITED;FOUNDER+OF+KILLTONZ+ESPORTS;FOUNDER+OF+FINITRIX+DEVELOPMENT;DISCORD+BOT+DEVELOPER;COMMUNITY+MANAGER;TECH+ENTHUSIAST;AI+DEVELOPER;GAMING+INNOVATOR" alt="Animated Typing Text" />
+</div>
 
 ## 🎮 About Me
 <div align="center">
