@@ -51,6 +51,8 @@
 ![Discord.py](https://img.shields.io/badge/Discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Adobe Premiere](https://img.shields.io/badge/Adobe%20Premiere-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
+![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
 
 ## 📊 GitHub Stats
 <div align="center">
@@ -74,8 +76,7 @@
 
 </div>
 
-![Faceit](https://img.shields.io/badge/FACEIT-FF5500?style=for-the-badge&logo=faceit&logoColor=white)
-![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)
+
 
 ## 🎧 Now Playing Live
 [![Spotify Now Playing](https://spotify-github-profile.vercel.app/api/view?uid=31olz7edhculjftm7ugdz5ct4kna&cover_image=true&theme=novatorem&bar_color=00F72D&bar_color_cover=false)](https://open.spotify.com/user/31olz7edhculjftm7ugdz5ct4kna)
