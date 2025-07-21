@@ -29,9 +29,7 @@
 [![Killtonz United](https://img.shields.io/badge/KILLTONZ_UNITED-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Killtonz-United)
 [![Killtonz Discord](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](YOUR_KILLTONZ_DISCORD_INVITE)
 [![Killtonz Website](https://img.shields.io/badge/WEBSITE-FF7139?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_KILLTONZ_WEBSITE_URL)
-
 [![Killtonz Esports](https://img.shields.io/badge/KILLTONZ_ESPORTS-EA3223?style=for-the-badge&logo=riot-games&logoColor=white)](https://github.com/Killtonz-Esports)
-
 [![Finitrix Development](https://img.shields.io/badge/FINITRIX_DEVELOPMENT-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/Finitrix-Development)
 [![Finitrix Discord](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](YOUR_FINITRIX_DISCORD_INVITE)
 </div>
