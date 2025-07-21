@@ -31,7 +31,7 @@
 [![Discord](https://img.shields.io/badge/KILLTONZ_DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/CvWQ85RD6c)
 
 [![Finitrix Development](https://img.shields.io/badge/FINITRIX_DEVELOPMENT-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/Finitrix-Development)
-[![Discord](https://img.shields.io/badge/FINITRIX_DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-finitrix-invite)
+[![Discord](https://img.shields.io/badge/FINITRIX_DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/CzUQrtWXyd)
 </div>
 
 ## 🔗 Connect With Me
