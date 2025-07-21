@@ -41,7 +41,7 @@
 [![Discord](https://img.shields.io/badge/Discord_ID-000000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/879605695585087528)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kredix-xypher)
 
-## 🛠️ Tech Stack
+
 ## 🛠️ Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -64,15 +64,10 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 🌟 Community Impact
-
 <div align="center" style="margin: 20px 0;">
-
 > "Always looking to collaborate with esports startups, gaming projects, or digital communities ready to level up." 🚀
-
 <img src="https://github-profile-trophy.vercel.app/?username=kredix-xypher&theme=onedark&no-frame=true&no-bg=true&row=1&column=6&margin-w=15" alt="Achievements" width="100%">
-
 <img src="https://komarev.com/ghpvc/?username=kredix-xypher&label=PROFILE+VIEWS&style=for-the-badge&color=00F72D&labelColor=0D1117" alt="Profile Views">
-
 </div>
 
 ## 🎧 Gaming & Coding Vibes
