@@ -10,7 +10,7 @@ Here's a professional, unique, and attractive GitHub README profile for you:
 ## 👨‍💻 About Me
 Founder of **Killtonz United**, **Killtonz Esports**, and **Finitrix Stores/Development** | Discord Bot Developer | Community Manager | Tech Enthusiast | AI-Based Developer | Graphic Designer | Video Editor
 
-```python
+
 class KredixXypher:
     def __init__(self):
         self.name = "Kredix Xypher"
