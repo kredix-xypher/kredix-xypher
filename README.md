@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=38&duration=4000&pause=1000&color=00F72D&background=00000000&center=true&vCenter=true&width=500&height=60&lines=KREDIX+XYPHER" alt="KREDIX XYPHER"/>
+  <code style="font-size: 28px; color: #00F72D;">&lt;/KREDIX XYPHER&gt;</code>
 </h1>
 
 
