@@ -51,17 +51,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kredix-xypher&layout=compact&langs_count=8&theme=vision-friendly-dark"/>
 </div>
 
-## 🔥 Streak Stats
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kredix-xypher&theme=vision-friendly-dark" alt="KredixXypher's Streak"/>
-</div>
-
-## 🎮 Featured Projects
-- [Killtonz United Hub](https://github.com/kredix-xypher/killtonz-hub) - Central platform for esports community
-- [Xypher Discord Bot](https://github.com/kredix-xypher/xypher-bot) - Advanced community management bot
-- [Finitrix Web Suite](https://github.com/kredix-xypher/finitrix-web) - Custom website templates for gamers
-- [Esports Automation Tools](https://github.com/kredix-xypher/esports-automation) - Tournament management utilities
-
 ## 💡 Currently Innovating
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
