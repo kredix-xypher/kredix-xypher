@@ -7,21 +7,22 @@
 
 ## 🎮 About Me
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/201330707?v=4" width="150" style="border-radius: 50%; border: 3px solid #00F72D; margin-bottom: 15px;" alt="Kredix Xypher"/>
+  <img src="https://avatars.githubusercontent.com/u/149850038?v=4" width="150" style="border-radius: 50%; border: 3px solid #00F72D; margin-bottom: 15px;" alt="Kredix Xypher"/>
 </div>
+
 **Founder of Killtonz United** — a growing esports and content creator community built to support competitive gamers, streamers, and developers.
 
 ⚙️ I develop advanced Discord bots, manage full-featured gaming websites, and lead custom automation for community management.
 
 📈 From leading event-based engagement and building community servers to developing full-stack web projects, I specialize in blending gaming culture with technical innovation.
 
-</div>
 ## 🔧 My Expertise
 - **Discord Bot Development** (Discord.js, Discord.py)
-- **Web Design & Development** (HTML, CSS, JavaScript)
+- **Web Design & Development** (HTML, CSS, JavaScript, Python)
 - **Esports Management & Community Leadership**
 - **Digital Branding & Custom Overlays**
 - **Graphic Design and Video Editing**
+- **Full-Stack Web Projects**
 
 ## 🚀 Organizations
 [![Killtonz United](https://img.shields.io/badge/Killtonz_United-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Killtonz-United)
