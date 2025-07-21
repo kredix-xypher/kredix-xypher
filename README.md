@@ -1,8 +1,7 @@
 <h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&weight=700&size=30&duration=4000&pause=1000&color=B400F7&center=true&vCenter=true&width=500&height=60&lines=%3C%2FKREDIX+XYPHER%3E" alt="KREDIX XYPHER banner"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Audiowide&weight=700&size=30&duration=4000&pause=1000&color=FF3131&center=true&vCenter=true&width=500&height=60&lines=%3C%2FKREDIX+XYPHER%3E" alt="KREDIX XYPHER banner"/>
 </p>
-
 </h1>
 
 
