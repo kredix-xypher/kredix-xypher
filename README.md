@@ -63,11 +63,15 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 🌟 Community Impact
-<div align="center" style="margin: 20px 0;">
-> "Always looking to collaborate with esports startups, gaming projects, or digital communities ready to level up." 🚀
-<img src="https://github-profile-trophy.vercel.app/?username=kredix-xypher&theme=onedark&no-frame=true&no-bg=true&row=1&column=6&margin-w=15" alt="Achievements" width="100%">
-<img src="https://komarev.com/ghpvc/?username=kredix-xypher&label=PROFILE+VIEWS&style=for-the-badge&color=00F72D&labelColor=0D1117" alt="Profile Views">
+## 🚀 **Community Impact**  
+<div align="center">
+
+**<span style="font-family: 'Segoe UI', sans-serif; font-size: 1.1em; color: #00F72D;">"Always seeking bold collaborations with esports startups, gaming projects, and digital communities ready to dominate."</span>** 🔥  
+
+<img src="https://github-profile-trophy.vercel.app/?username=kredix-xypher&theme=onedark&no-frame=true&no-bg=true&row=1&column=6&margin-w=15" alt="Achievements" width="100%">  
+
+<img src="https://komarev.com/ghpvc/?username=kredix-xypher&label=PROFILE+VISITS&style=for-the-badge&color=00F72D&labelColor=0D1117" alt="Profile Views">  
+
 </div>
 
 ## 🎧 Gaming & Coding Vibes
