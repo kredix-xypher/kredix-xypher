@@ -66,7 +66,7 @@
 ## 🚀 **Community Impact**  
 <div align="center">
 
-**<span style="font-family: 'Segoe UI', sans-serif; font-size: 1.1em; color: #00F72D;">"Always seeking bold collaborations with esports startups, gaming projects, and digital communities ready to dominate."</span>** 🔥  
+**<span style="font-family: 'Segoe UI', sans-serif; font-size: 1.1em; color: #00F72D;">"Always seeking bold collaborations with esports , gaming , and digital communities ready to dominate."</span>** 🔥  
 
 <img src="https://github-profile-trophy.vercel.app/?username=kredix-xypher&theme=onedark&no-frame=true&no-bg=true&row=1&column=6&margin-w=15" alt="Achievements" width="100%">  
 
