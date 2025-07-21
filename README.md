@@ -71,6 +71,6 @@
 </div>
 
 ## 🎧 Gaming & Coding Vibes
-[![Spotify](https://novatorem-git-master.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
+[![Spotify](https://novatorem-git-master.vercel.app/api/spotify)](https://open.spotify.com/user/31olz7edhculjftm7ugdz5ct4kna)
 ```
 
